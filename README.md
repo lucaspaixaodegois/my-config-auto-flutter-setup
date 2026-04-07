@@ -1,8 +1,8 @@
 # 🚀 Flutter Auto Setup (Windows)
 
-[![Powershell](https://shields.io)](https://github.com)
-[![Flutter](https://shields.io)](https://flutter.dev)
-[![Author](https://shields.io)](https://github.com)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 Script inteligente desenvolvido por **Lucas Paixão** para automação completa do ambiente Flutter no Windows. Ideal para novas máquinas ou padronização de ambientes.
 
