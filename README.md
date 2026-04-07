@@ -26,7 +26,7 @@ Script inteligente desenvolvido por **Lucas Paixão** para automação completa 
 ## 🚀 Como usar
 
 ### Opção A: Atalho Rápido (Recomendado)
-1. Baixe o [ZIP do projeto](https://github.com/my-config-auto-flutter-setup/archive/refs/heads/main.zip).
+1. Baixe o [ZIP do projeto]([https://github.com/my-config-auto-flutter-setup/archive/refs/heads/main.zip](https://github.com/lucaspaixaodegois/my-config-auto-flutter-setup/archive/refs/heads/main.zip).
 2. Extraia os arquivos.
 3. Clique com o botão direito em `run-setup.bat` e selecione **Executar como Administrador**.
 
