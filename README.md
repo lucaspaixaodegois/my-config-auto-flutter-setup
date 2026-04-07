@@ -28,10 +28,10 @@ Script inteligente desenvolvido por **Lucas Paixão** para automação completa 
 ### Opção A: Atalho Rápido (Recomendado)
 1. Baixe o [ZIP do projeto](https://github.com/my-config-auto-flutter-setup/archive/refs/heads/main.zip).
 2. Extraia os arquivos.
-3. Clique com o botão direito em `install.bat` e selecione **Executar como Administrador**.
+3. Clique com o botão direito em `run-setup.bat` e selecione **Executar como Administrador**.
 
 ### Opção B: Via Terminal
 ```powershell
-git clone https://github.com/my-config-auto-flutter-setup.git
+git clone [https://github.com/lucaspaixaodegois/my-config-auto-flutter-setup.git](https://github.com/lucaspaixaodegois/my-config-auto-flutter-setup.git)
 cd my-config-auto-flutter-setup
-./install.bat
+./run-setup.bat
