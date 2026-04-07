@@ -1,0 +1,19 @@
+# --- Temporários do Script ---
+dev-setup/
+*.zip
+*.msi
+*.exe
+
+# --- Windows ---
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.suo
+*.user
+
+# --- Logs ---
+*.log
